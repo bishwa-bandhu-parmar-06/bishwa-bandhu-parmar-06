@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bishwa-bandhu-parmar
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me by linked in or mobile no.- 9142364660.
 
 <!---
