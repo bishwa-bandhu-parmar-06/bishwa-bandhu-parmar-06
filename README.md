@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Bishwabandhu Parmar, and here you'll find a va
 
 ### 2. Stopwatch
 - Description: A basic stopwatch implementation with start, stop, and reset functionalities.
-- Repository: [Stopwatch](https://github.com/bishwa-bandhu-parmar-06/PRODIGY_WD_01.git)
+- Repository: [Stop-Watch](https://github.com/bishwa-bandhu-parmar-06/PRODIGY_WD_01.git)
 
 ### 3. Calculator
 - Description: A calculator application for performing basic arithmetic operations.
