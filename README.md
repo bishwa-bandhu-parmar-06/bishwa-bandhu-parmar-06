@@ -22,7 +22,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/bishwabandhu06?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/bishwabandhu06/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bishwabandhu06?ext=contest)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/your_username/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/bishwabandhu06/)
 
 ![LeetCode Monthly](https://img.shields.io/badge/dynamic/json?label=Monthly%20Solved&query=solvedProblem&url=https://leetcode-stats-api.herokuapp.com/bishwabandhu06)
 
