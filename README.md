@@ -19,6 +19,8 @@
 </div>
 
 ---
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bishwabandhu06?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/bishwabandhu06/)
+
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building robust backend systems  
