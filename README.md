@@ -30,11 +30,6 @@
 - 👨‍💻 **Projects:** [github.com/bishwa-bandhu-parmar-06](https://github.com/bishwa-bandhu-parmar-06)
 
 ---
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  
-  <a href="[https://leetcode.com/its-nishant320/](https://leetcode.com/u/bishwabandhu06/)" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=7462571&isLevel=false" alt="jyot" height="200" width="200" /></a>
-</p>
 
 
 ### 🌐 Connect with Me
