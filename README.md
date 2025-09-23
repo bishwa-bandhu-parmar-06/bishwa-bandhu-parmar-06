@@ -24,6 +24,7 @@
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/your_username/)
 
+![LeetCode Monthly](https://img.shields.io/badge/dynamic/json?label=Monthly%20Solved&query=solvedProblem&url=https://leetcode-stats-api.herokuapp.com/bishwabandhu06)
 
 
 ### 🚀 About Me
