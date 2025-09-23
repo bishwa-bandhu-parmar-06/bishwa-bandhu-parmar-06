@@ -12,7 +12,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bishwa-bandhu-parmar-06&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
 <div align="center" style="margin: 20px;">
   <a href="https://twitter.com/bishwabandhu06" target="_blank">
     <img src="https://img.shields.io/twitter/follow/bishwabandhu06?logo=twitter&style=for-the-badge&color=00DDEB" alt="Twitter Follow" />
@@ -31,6 +30,12 @@
 - 👨‍💻 **Projects:** [github.com/bishwa-bandhu-parmar-06](https://github.com/bishwa-bandhu-parmar-06)
 
 ---
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <a href="[https://leetcode.com/its-nishant320/](https://leetcode.com/u/bishwabandhu06/)" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=7462571&isLevel=false" alt="jyot" height="200" width="200" /></a>
+</p>
+
 
 ### 🌐 Connect with Me
 <div align="center" style="margin: 20px;">
