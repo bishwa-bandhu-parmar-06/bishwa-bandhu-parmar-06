@@ -19,7 +19,8 @@
 </div>
 
 ---
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bishwabandhu06?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/bishwabandhu06/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/bishwabandhu06/)
+
 
 
 
